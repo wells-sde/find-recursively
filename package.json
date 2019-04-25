@@ -1,0 +1,19 @@
+{
+  "name": "find-recursively",
+  "version": "0.1.0",
+  "description": "Depth-first recursively find a property, this function handles arrays and objects.",
+  "main": "find-recursively.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wells-sde/find-recursively.git"
+  },
+  "author": "will f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wells-sde/find-recursively/issues"
+  },
+  "homepage": "https://github.com/wells-sde/find-recursively#readme"
+}
